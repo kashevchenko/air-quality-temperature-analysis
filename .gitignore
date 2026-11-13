@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data redistribution permission has not been established.
+/data/*.csv
+/.venv/
